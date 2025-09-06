@@ -24,14 +24,17 @@ This project is not just academic—it’s a **blueprint for modern enterprises*
 ---
 
 ## 🏗️ Architecture
-👉 *(Insert your architecture diagram here)*  
+👉 <img width="940" height="384" alt="image" src="https://github.com/user-attachments/assets/62a80649-5ef2-416c-95f8-9da04ea9e1c7" />
+
 
 ---
 
 ## 🎨 Project Glimpse
-- **Frontend:** *(Insert screenshots / GIFs)*  
-- **Backend (Pipelines, Notebooks):** *(Insert screenshots / GIFs)*  
-- **Demo Video:** *(Embed link to demo video here)*  
+- **Frontend:** *<img width="886" height="473" alt="image" src="https://github.com/user-attachments/assets/033cf08e-f8b3-40ec-9687-3bac4ad8c735" />*  
+- **Backend (Pipelines, Notebooks):** *<img width="887" height="474" alt="image" src="https://github.com/user-attachments/assets/e310e751-a40d-4e71-872f-553169f773e0" />*
+- *<img width="887" height="438" alt="image" src="https://github.com/user-attachments/assets/503cb9fc-f350-489f-b092-4bdd17051f0d" />*
+
+- **Demo Video:** *https://drive.google.com/file/d/1IRQaAmUSgDDVSJOWJtkIHW-Dsfazdcuz/view?usp=sharing*  
 
 ---
 
