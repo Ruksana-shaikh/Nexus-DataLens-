@@ -35,7 +35,7 @@ This project is not just academic—it’s a **blueprint for modern enterprises*
 - *<img width="887" height="438" alt="image" src="https://github.com/user-attachments/assets/503cb9fc-f350-489f-b092-4bdd17051f0d" />*
 
 - **Demo Video:** *https://drive.google.com/file/d/1IRQaAmUSgDDVSJOWJtkIHW-Dsfazdcuz/view?usp=sharing*  
-
+- **Power BI Dashboard:** *<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c77bd3ed-0b90-48de-8c4e-cb01ed2e6ea3" />*
 ---
 
 ## 📂 Repository Structure
